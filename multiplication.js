@@ -6,3 +6,8 @@ result = a * b
 result = a * b
 
 console.log("The result of multiplication is:", result)
+console.log("The result of multiplication is:", result)
+console.log("The result of multiplication is:", result)
+console.log("The result of multiplication is:", result)
+console.log("The result of multiplication is:", result)
+
